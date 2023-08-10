@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ccb1dcf-75d9-42cb-82ab-2f5006be171a": {
+      "ProjectGuid": "1ccb1dcf-75d9-42cb-82ab-2f5006be171a",
+      "DisplayName": "AmazonCrawler.RatingAndReview",
+      "ColorIndex": 0
+    },
+    "4997193c-566a-4fa6-9353-845618910087": {
+      "ProjectGuid": "4997193c-566a-4fa6-9353-845618910087",
+      "DisplayName": "AmazonCrawler.Common",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

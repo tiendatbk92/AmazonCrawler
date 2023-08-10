@@ -1,0 +1,12 @@
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\bin\Debug\net6.0\AmazonCrawler.Common.deps.json
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\bin\Debug\net6.0\AmazonCrawler.Common.dll
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\bin\Debug\net6.0\ref\AmazonCrawler.Common.dll
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\bin\Debug\net6.0\AmazonCrawler.Common.pdb
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\AmazonCrawler.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\AmazonCrawler.Common.AssemblyInfoInputs.cache
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\AmazonCrawler.Common.AssemblyInfo.cs
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\AmazonCrawler.Common.csproj.CoreCompileInputs.cache
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\AmazonCrawler.Common.dll
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\ref\AmazonCrawler.Common.dll
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\AmazonCrawler.Common.pdb
+C:\Project\Quick Fix\OtherApps\AmazonCrawler\AmazonCrawler.Common\obj\Debug\net6.0\AmazonCrawler.Common.csproj.AssemblyReference.cache
